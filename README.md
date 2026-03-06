@@ -1,4 +1,4 @@
-独学による作成順と画像ファイル位置 (少しずつ良くなっていると信じて勉強中)  
+独学による作成順 (少しずつ良くなっていると信じて勉強中)  
 1. オセロ 保存先: https://github.com/TT-3-14159265358979323846264338/practice-code  
 2. テトリス 保存先: https://github.com/TT-3-14159265358979323846264338/practice-code  
 3. 将棋 保存先: https://github.com/TT-3-14159265358979323846264338/practice-code, branch: shogi-image  
